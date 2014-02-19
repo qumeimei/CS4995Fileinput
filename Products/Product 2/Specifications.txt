@@ -1,0 +1,62 @@
+
+<DIV class=tab-container id=tab-container:0 style="DISPLAY: block"><SPAN id=Product_Title>
+<P style="MARGIN-BOTTOM: 10px; FONT-SIZE: 13px; FONT-WEIGHT: 600; COLOR: black">DuraGen Plus<SUP font-size="1">®</SUP> Dural Regeneration Matrix</P></SPAN><BR><SPAN id=lblProduct><?xml version="1.0" encoding="utf-16"?>
+
+<P><BR><SPAN style="FONT-WEIGHT: bold">Integra Duraplasty Solutions™ Product Attributes</SPAN></P>
+<TABLE style="BORDER-TOP: #000000 1px solid; HEIGHT: 206px; WIDTH: 500px; BORDER-LEFT: #000000 1px solid" cellSpacing=0 cellPadding=5>
+<TBODY>
+<TR>
+<TD width=150 style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid"><SPAN style="FONT-WEIGHT: bold">Attributes</SPAN></TD>
+<TD width=350 style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid"><SPAN style="FONT-WEIGHT: bold">Benefit</SPAN></TD></TR>
+<TR>
+<TD style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">Ultra Pure Collagen™</TD>
+<TD style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">Limits uncertainty: no reported foreign body reactions or graft rejections in over 750,000 patients</TD></TR>
+<TR>
+<TD style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">Fibrin Clot Formation </TD>
+<TD style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">Provides the structure for initial fibrin clot formation to prevent CSF leakage</TD></TR>
+<TR>
+<TD style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">Excellent Conformability </TD>
+<TD style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">Ensures graft approximation at the dural margin to protect against CSF leakage</TD></TR>
+<TR>
+<TD style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">Engineered Porosity</TD>
+<TD style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">Has an optimized pore structure to ensure consistent matrix hydration and uniform tissue repair throughout the dural graft</TD></TR>
+<TR>
+<TD style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">Optimized Resorption </TD>
+<TD style="BORDER-RIGHT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid">Matrix resorbs at a similar rate that new tissue forms to prevent encapsulation</TD></TR></TBODY></TABLE>
+<P></P>
+<P></P>
+<P></P>
+<P></P>
+<P><SPAN style="FONT-WEIGHT: bold">Integra's Ultra Pure Collagen™ for Duraplasty<BR></SPAN>Integra manufactures the DuraGen family of products from Ultra Pure Collagen which is sourced from Bovine Achilles Tendon. This Type I collagen has been manufactured and purified to:</P>
+<UL>
+<LI>Limit the risk of foreign body reaction</LI>
+<LI>Reduce the chance of encapsulation by fibrous tissue formation</LI>
+<LI>Mitigate the possibility of immunological response</LI></UL>
+<P>Integra's Duraplasty Solutions™ have been implanted in over 750,000 patients and are used in neurosurgical procedures worldwide. Clinical studies have shown minimal adhesion formation, effective protection against CSF leakage with sutureless closure, and no reports of foreign body reactions or immune rejections. </P>
+<P></P>
+<P><BR></P>
+<P><SPAN style="FONT-WEIGHT: bold">Indication: </SPAN><BR>Integra DuraGen Plus<SPAN style="FONT-SIZE: 8pt; VERTICAL-ALIGN: super">®</SPAN> Dural Regeneration Matrix is indicated as a dura substitute for the repair of dura mater.<BR></P>
+<P><SPAN style="FONT-WEIGHT: bold"><BR></SPAN></P>
+<P><SPAN style="FONT-WEIGHT: bold">Contraindications:<BR></SPAN>Integra DuraGen Plus Matrix is not designed, sold or intended for use except as described in the indications for use and is contraindicated in the following situations:</P>
+<UL>
+<LI>For patients with a known history of hypersensitivity to bovine derived materials.</LI>
+<LI>For repair of spinal neural tube defects; anterior spinal surgery with dural resection (e.g., transoral surgery).</LI>
+<LI>Should be used with caution in infected regions.</LI>
+<LI>Not recommended to cover dural defects involving mastoid air cells.</LI>
+<LI>Not recommended for large defects at the skull base following surgery.</LI></UL>
+<P><BR></P>
+<P><SPAN style="FONT-WEIGHT: bold">Warnings:</SPAN></P>
+<UL>
+<LI>Do Not Resterilize! </LI>
+<LI>Do not use if the product package is damaged or opened. </LI>
+<LI>Integra DuraGen Plus Matrix is generally not recommended for extensive skull base surgery with dural resection, however, DuraGen Plus Matrix can be used to augment other forms of specific repair (i.e., Fascia lata). </LI></UL>
+<P><BR></P>
+<P><BR><SPAN style="FONT-WEIGHT: bold">Precautions:</SPAN><BR></P>
+<UL>
+<LI>Rinse surgical gloves to remove any glove powder prior to handling Integra DuraGen Plus Matrix.</LI>
+<LI>If Integra DuraGen Plus Matrix is to be sutured, tensionless suturing technique must be used to prevent tearing the DuraGen Plus Dural Regeneration Matrix.</LI>
+<LI>Integra DuraGen Plus Dural Regeneration Matrix should be cut to size ensuring an overlap to cover the existing dura.</LI></UL>
+<P><BR></P>
+<P><SPAN style="FONT-WEIGHT: bold">Adverse Events:</SPAN><BR>Possible complications can occur with any neurosurgical procedure and include cerebrospinal fluid leaks, infection, delayed hemorrhage and adhesion formation. In clinical evaluations involving 1096 patients, postoperative wound infection rates for Integra's Dural Regeneration Matrix were reported at approximately the same rate as the control group. Postoperative cerebrospinal fluid leaks were reported in 3 of 67 patients who underwent intradural posterior fossa procedures. Macroscopic evaluations revealed minimal adhesion formation only when there was significant disruption of the pia-arachnoid. There were no reports of graft encapsulation, neomembrane formation or foreign body reactions. There were no reports of graft rejection at histology. </P>
+<P></P>
+<P class=maincontent></P></SPAN><BR><BR><BR><STRONG>For complete product information, please see the Instructions for Use accompanying each product. </STRONG></DIV>
